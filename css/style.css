@@ -20,7 +20,6 @@
     color: white !important;
   }
 
-
   /* Jumbotron================= */
 .jumbotron {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1),
@@ -39,6 +38,7 @@
     color: rgba(255,255,255,1) !important;
 }
 
+/* Cards ==================== */
 .cardBox {
     padding: 50px;
     margin: 0px 100px 0px 100px;
@@ -53,6 +53,8 @@
     max-width: 200px;
     vertical-align: middle;
 }
+
+/* Newsletter ==================== */
 .news {
     padding: 50px;
     background-color: rgb(35, 41, 53)
@@ -63,6 +65,8 @@
     border-radius: 10px;
     margin: 100px 0px 100px 0px
 }
+
+/* Footer ==================== */
 .footer {
     background-color: steelblue !important;
 }
